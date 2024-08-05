@@ -1,2 +1,3 @@
-# os_assignments
-lab file
+NAME=BHUPENDRA SINGH
+ROLLONO=PAS078BEI008
+
